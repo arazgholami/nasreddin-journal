@@ -1,2 +1,2 @@
-# nasreddin-journal
+# Nasreddin Journal
 Full Archive of Nasreddin Journal
